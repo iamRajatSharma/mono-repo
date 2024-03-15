@@ -1,0 +1,13 @@
+{
+    "name": "@sharmarajat687/repo-1",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@sharmarajat687/common": "*",
+        "body-parser":"2.0.0"
+    },
+    "scripts": {
+        "start": "node src/index"
+    }  
+}
